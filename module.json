@@ -68,5 +68,9 @@
         "ASSISTANT": "OWNER"
       }
     }
-  ]
+  ],
+"url": "https://github.com/astvictor92/Master_Goose_Way_to_Vallaki",
+"manifest": "https://raw.githubusercontent.com/astvictor92/Master_Goose_Way_to_Vallaki/main/module.json",
+"download": "https://github.com/astvictor92/Master_Goose_Way_to_Vallaki/archive/refs/heads/main.zip",
+"license": "MIT"  
 }
