@@ -1,6 +1,6 @@
 {
-  "id": "mg-ravenloft",
-  "title": "MG - Ravenloft",
+  "id": "mg-way-to-vallaki",
+  "title": "MG - Way to Vallaki",
   "version": "1.0.0",
   "compatibility": {
     "minimum": "12",
@@ -52,15 +52,15 @@
   "authors": [
     {
       "name": "Master Goose",
-      "url": "https://vk.com/dnd_goose",
+      "url": "https://boosty.to/ast_vik",
       "flags": {}
     }
   ],
   "packs": [
     {
-      "name": "mg-ravenloft",
-      "label": "MG - Ravenloft",
-      "path": "packs/mg-ravenloft",
+      "name": "mg_way_to_vallaki",
+      "label": "MG - Way to Vallaki",
+      "path": "packs/mg_way_to_vallaki",
       "type": "Adventure",
       "system": "dnd5e",
       "ownership": {
